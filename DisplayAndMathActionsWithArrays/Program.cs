@@ -32,13 +32,13 @@ namespace MIC_coding_practice
         }
 
         ///<summary>
-        ///Randomly generates a multidimensional array in between specified range.
+        ///Randomly generates a multidimensional array in between the specified range.
         ///</summary>
         ///<param name="rows">Number of rows in the array</param>
         ///<param name="columns">Number of columns in the array</param>
         ///<param name="lowerBound">The min that array element can be</param>
         ///<param name="upperBound">The max that array element can be</param>
-        ///<returns>Random multidimnesional array</returns>
+        ///<returns>Returns two dimensional array.</returns>
         public static int[,] CreateArray(int rows, int columns, int lowerBound, int upperBound)
         {
             Random random = new Random();
@@ -71,7 +71,7 @@ namespace MIC_coding_practice
             }
         }
         ///<summary>
-        ///Prints an array.
+        ///Prints the given array.
         ///</summary>
         ///<param name="array">The array that should be printed.</param>
         public static void Print(int[] array)
@@ -82,7 +82,7 @@ namespace MIC_coding_practice
             }
         }
         ///<summary>
-        ///Prints the given message with the given value included.
+        ///Prints the given message having the given value included.
         ///</summary>
         ///<param name="message">The word or sentence to be printed.</param>
         ///<param name="value">The value that should to be printed.</param>

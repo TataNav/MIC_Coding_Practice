@@ -5,3 +5,10 @@ C:\Users\tatevik.navasardyan\source\repos\DisplayAndMathActionsWithArrays\Displa
 C:\Users\tatevik.navasardyan\source\repos\DisplayAndMathActionsWithArrays\DisplayAndMathActionsWithArrays\obj\Debug\DisplayAndMathActionsWithArrays.csproj.CoreCompileInputs.cache
 C:\Users\tatevik.navasardyan\source\repos\DisplayAndMathActionsWithArrays\DisplayAndMathActionsWithArrays\obj\Debug\DisplayAndMathActionsWithArrays.exe
 C:\Users\tatevik.navasardyan\source\repos\DisplayAndMathActionsWithArrays\DisplayAndMathActionsWithArrays\obj\Debug\DisplayAndMathActionsWithArrays.pdb
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\DisplayAndMathActionsWithArrays\bin\Debug\DisplayAndMathActionsWithArrays.exe.config
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\DisplayAndMathActionsWithArrays\bin\Debug\DisplayAndMathActionsWithArrays.exe
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\DisplayAndMathActionsWithArrays\bin\Debug\DisplayAndMathActionsWithArrays.pdb
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\DisplayAndMathActionsWithArrays\obj\Debug\DisplayAndMathActionsWithArrays.csprojAssemblyReference.cache
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\DisplayAndMathActionsWithArrays\obj\Debug\DisplayAndMathActionsWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\DisplayAndMathActionsWithArrays\obj\Debug\DisplayAndMathActionsWithArrays.exe
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\DisplayAndMathActionsWithArrays\obj\Debug\DisplayAndMathActionsWithArrays.pdb

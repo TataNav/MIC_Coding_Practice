@@ -1,0 +1,7 @@
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\OOP_concept_practicing_with_arrays\bin\Debug\OOP_concept_practicing_with_arrays.exe.config
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\OOP_concept_practicing_with_arrays\bin\Debug\OOP_concept_practicing_with_arrays.exe
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\OOP_concept_practicing_with_arrays\bin\Debug\OOP_concept_practicing_with_arrays.pdb
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\OOP_concept_practicing_with_arrays\obj\Debug\OOP_concept_practicing_with_arrays.csprojAssemblyReference.cache
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\OOP_concept_practicing_with_arrays\obj\Debug\OOP_concept_practicing_with_arrays.csproj.CoreCompileInputs.cache
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\OOP_concept_practicing_with_arrays\obj\Debug\OOP_concept_practicing_with_arrays.exe
+C:\Users\tatevik.navasardyan\Source\Repos\MIC_Coding_Practice\OOP_concept_practicing_with_arrays\obj\Debug\OOP_concept_practicing_with_arrays.pdb
