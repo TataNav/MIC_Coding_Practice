@@ -25,8 +25,13 @@ namespace OOP_concept_practicing_with_arrays
             arrayManager.Array = arrayManager.Create();
             Console.WriteLine(new string('-', 30));
             printManager.Print(arrayManager.Array);
-            Console.WriteLine(new string('-', 10));
+            Console.WriteLine(new string('-', 30));
             printManager.Print(arrayManager.GetDiagonal());
+            Console.WriteLine();
+            //Print max of the diagonal
+            printManager.Print("The maximum value on the diagonal", arrayManager.GetMaxOfArray());
+
+            Console.WriteLine(new string('-', 10));
 
             Console.ReadKey();
         }
@@ -38,7 +43,7 @@ namespace OOP_concept_practicing_with_arrays
         private int[] arr;
         private int arrayHeight = 5, arrayWidth = 5, arrayMinSize = -15, arrayMaxSize = 3;
         //Properties of array, arrayHeight, arrayWidth, arrayMinSize, arrayMaxSize fields
-        public int [,] Array
+        public int[,] Array
         {
             get
             {
@@ -54,10 +59,6 @@ namespace OOP_concept_practicing_with_arrays
             get
             {
                 return arr;
-            }
-            set
-            {
-                arr = GetDiagonal();
             }
         }
         public int ArrayHeight
@@ -145,10 +146,9 @@ namespace OOP_concept_practicing_with_arrays
         ///</summary>
         ///<param name="array">An input array to get the max value from.</param>
         ///<returns>Returns the max value of the array.</returns>
-        public static int GetMaxOfArray()
+        public int GetMaxOfArray()
         {
             int max = Arr[0];
-
             for (int i = 1; i < Arr.Length; i++)
             {
                 if (Arr[i] > max)
