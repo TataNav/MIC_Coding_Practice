@@ -11,7 +11,7 @@ namespace UniversityOrg.Models
 
         public Student()
         {
-            _id = new Guid();
+            _id = Guid.NewGuid();
         }
 
         public Student(string name,int age)
