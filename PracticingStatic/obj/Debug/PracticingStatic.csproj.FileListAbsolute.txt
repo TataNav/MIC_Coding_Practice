@@ -1,0 +1,7 @@
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\PracticingStatic\bin\Debug\PracticingStatic.exe.config
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\PracticingStatic\bin\Debug\PracticingStatic.exe
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\PracticingStatic\bin\Debug\PracticingStatic.pdb
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\PracticingStatic\obj\Debug\PracticingStatic.csprojAssemblyReference.cache
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\PracticingStatic\obj\Debug\PracticingStatic.csproj.CoreCompileInputs.cache
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\PracticingStatic\obj\Debug\PracticingStatic.exe
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\PracticingStatic\obj\Debug\PracticingStatic.pdb

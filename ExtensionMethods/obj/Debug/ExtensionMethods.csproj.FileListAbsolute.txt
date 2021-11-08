@@ -1,0 +1,6 @@
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
