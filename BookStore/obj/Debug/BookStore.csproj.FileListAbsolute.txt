@@ -1,0 +1,2 @@
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\tatevik.navasardyan\source\repos\MIC_Coding_Practice\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
