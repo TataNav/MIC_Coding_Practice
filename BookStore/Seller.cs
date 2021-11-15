@@ -13,13 +13,13 @@ namespace BookStore
 
         }
         //duplicate the discount amount for bookstore sellers only
-        public override bool PayForBook(Book book)
+        public override void PayForBook(Book book)
         {
             if (Discount.DiscountAmnt < 30)
             {
                 book.Price = Discount.CalculateSellPrice(book.Price);
             }
-            return base.PayForBook(book);
+            base.PayForBook(book);
         }
 
         public void SellBook()

@@ -8,8 +8,8 @@ namespace BookStore
 {
     public class Book
     {
-        //private static int quantity;
-        //public int Qunatity { get{ return quantity; } }
+        private static int quantity;
+        public int Qunatity { get { return quantity; } }
         private Guid id;
         public Guid Id { get { return id; } }
         private string title;
